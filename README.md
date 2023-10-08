@@ -1,7 +1,7 @@
-Java Swing CRUD Application with JDBC & MySQL
+#Java Swing CRUD Application with JDBC & MySQL
 This repository contains a simple CRUD (Create, Read, Update, Delete) application built with Java Swing for the frontend and JDBC with MySQL for the backend.
 
-Prerequisites
+#Prerequisites
 Java JDK (recommended version 8 or above)
 MySQL Server
 MySQL JDBC Driver (e.g., mysql-connector-java)
